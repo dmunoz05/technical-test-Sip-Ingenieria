@@ -1,0 +1,8 @@
+#Environments
+.env
+.env/local
+
+
+#Web2py
+web2py/
+
